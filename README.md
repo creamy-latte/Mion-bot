@@ -29,10 +29,13 @@ Running this bot with discord.py v2+ will only give you an error message, i reco
 ![ALT text](https://i.ibb.co/P1Jx6T6/3.png)
 ![ALT text](https://i.ibb.co/kSFCNJs/4.png)
 
+<h2>🤝 Contribute</h2>
+<p>Feel free to contribute if you find any bugs or want to extend the features</p>
+
 <h2>🗣️ Where to run the bot?</h2>
 
 Anywhere! you can run the bot on your IDE, PowerShell, Terminal, or you can run it in a VPS to run it 24/7.
 
-To run the bot you simply type `py main.py` on your terminal
+To run the bot, simply type `py main.py` on your terminal
 
 <h3>Made with Python  <img src="https://i.ibb.co/dQG1Lzh/python3.png" /></h3> 
