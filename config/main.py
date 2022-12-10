@@ -20,7 +20,7 @@ async def on_ready():
 
 @bot.command()
 async def hello(ctx):
-    await ctx.reply("Hi")
+    await ctx.reply("Hi, how are you doing?")
 
 #remove the default help command so that we can write out own
 bot.remove_command('help')
