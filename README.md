@@ -34,3 +34,5 @@ Running this bot with discord.py v2+ will only give you an error message, i reco
 Anywhere! you can run the bot on your IDE, PowerShell, Terminal, or you can run it in a VPS to run it 24/7.
 
 To run the bot you simply type `py main.py` on your terminal
+
+<h3>Made with Python  <img src="https://i.ibb.co/dQG1Lzh/python3.png" /></h3> 
