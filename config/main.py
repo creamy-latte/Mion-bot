@@ -15,7 +15,7 @@ bot = commands.Bot(command_prefix="m.", intents=intents)
 
 @bot.event
 async def on_ready():
-    await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name="anti depression"))
+    await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.listening, name="your inner voice"))
     print("Bot sudah siap!")
 
 @bot.event
