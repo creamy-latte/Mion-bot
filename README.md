@@ -17,7 +17,7 @@ Running this bot with discord.py v2+ will only give you an error message, i reco
   1. youtube-dl
   2. PyNaCl
   3. ffmpeg
-  4. ***discord.py v1.7.3***
+  4. discord.py
   5. python-dotenv 
 
 #python-dotenv is optional you can use `bot.run('TOKEN')` instead of using .env file
